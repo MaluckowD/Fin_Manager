@@ -1,2 +1,2 @@
-# React_site_course1
+# Fin_Manager
 This repository from course react stepik
